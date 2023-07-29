@@ -2,6 +2,10 @@
     font-family: 'Montserrat';
     src:  url('../webfonts/Montserrat-Regular.ttf');
 }
+@font-face{
+    font-family: 'Encode Sans Condensed';
+    src:  url('../webfonts/encodesanscondensedregular.ttf');
+}
 html,
 body {
 padding: 0;
