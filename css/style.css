@@ -1,3 +1,7 @@
+@font-face{
+    font-family: 'Montserrat';
+    src:  url('../webfonts/Montserrat-Regular.ttf');
+}
 html,
 body {
 padding: 0;
